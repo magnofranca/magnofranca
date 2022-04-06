@@ -1,8 +1,9 @@
 ### Hi there 👋
+
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=magnofranca&theme=dark">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magnofranca&theme=dark" />
-</div>
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=magnofranca&theme=dark">
+  <img height="200px" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magnofranca&theme=dark" />
+</div><br>
 
 <div style="display:inline-block">
   <img align="center" alt="Magno-Html" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -11,7 +12,7 @@
   <img align="center" alt="Magno-css" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Magno-css" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
 </div>
-##
+<br><hr>
 
 <div>
   <a href="mailto:magnofranca29@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
